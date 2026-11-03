@@ -35,3 +35,21 @@ For each non-original item, retain the original source, author/provider, applica
 | [project-coordinator-portfolio](https://github.com/JamieChristian22/project-coordinator-portfolio) | 90 | `E-Commerce_Platform_Launch/Control_Exercise/actions.csv`; `E-Commerce_Platform_Launch/Control_Exercise/budget.csv` | Not identified at a conventional path |
 | [management-leadership-portfolio](https://github.com/JamieChristian22/management-leadership-portfolio) | 20 | `01_Retail_Operations_Manager_Store_Performance_Turnaround/14_Weekly_Source_Data.csv`; `01_Retail_Operations_Manager_Store_Performance_Turnaround/Retail_Operations_Turnaround_Operating_Workbook.xlsx` | Not identified at a conventional path |
 | [marketing-analytics-portfolio](https://github.com/JamieChristian22/marketing-analytics-portfolio) | 54 | `01_Amazon_Marketplace_Analytics_Dashboard/02_Datasets/data_dictionary.csv`; `01_Amazon_Marketplace_Analytics_Dashboard/02_Datasets/dataset.csv` | Not identified at a conventional path |
+| [cloud-platform-engineering-lab](https://github.com/JamieChristian22/cloud-platform-engineering-lab) | 72 | `01-enterprise-landing-zone/architecture/AWS enterprise landing zone architecture diagram.png`; `01-enterprise-landing-zone/screenshots/01-budget-created.png` | Not identified at a conventional path |
+| [multi-cloud-security-engineering-platform](https://github.com/JamieChristian22/multi-cloud-security-engineering-platform) | 204 | `01-identity-access-management-platform/architecture/aws-identity-access-management-architecture.png`; `01-identity-access-management-platform/architecture/azure-identity-access-management-architecture.png` | Not identified at a conventional path |
+| [multi-cloud-devops-engineering-projects](https://github.com/JamieChristian22/multi-cloud-devops-engineering-projects) | 0 | — | Not identified at a conventional path |
+| [enterprise-it-support-and-systems-operations](https://github.com/JamieChristian22/enterprise-it-support-and-systems-operations) | 330 | `enterprise-active-directory-user-management-lab/architecture/01-enterprise-infrastructure-architecture-diagram.png`; `enterprise-active-directory-user-management-lab/architecture/02-active-directory-organizational-structure-architecture.png` | Not identified at a conventional path |
+| [cloud-support-operations-portfolio](https://github.com/JamieChristian22/cloud-support-operations-portfolio) | 10 | `01-aws-cloud-support-troubleshooting-helpdesk/architecture/aws-support-lab.png`; `01-aws-cloud-support-troubleshooting-helpdesk/evidence/support-queue.csv` | Not identified at a conventional path |
+| [cloud-security-operations-platform](https://github.com/JamieChristian22/cloud-security-operations-platform) | 7 | `01-multi-cloud-foundation-iam/governance/rbac-matrix.csv`; `02-cloud-support-reliability-center/data/tickets.csv` | Not identified at a conventional path |
+| [professional-data-operations-portfolio-](https://github.com/JamieChristian22/professional-data-operations-portfolio-) | 70 | `00_Start_Here/ALL_PROJECTS_Searchable_Bookmarked_Portfolio_Reader.pdf`; `00_Start_Here/BONUS_ReadOnly_Control_Demonstration.docx` | Not identified at a conventional path |
+| [.github](https://github.com/JamieChristian22/.github) | 0 | — | Not identified at a conventional path |
+
+## Decision checklist (not yet a legal verification)
+
+- For original assets: document creator, creation method, and whether results are synthetic, modeled or demonstrated.
+- For external datasets or images: record the upstream URL, license and attribution requirements; remove or replace unlicensed assets before redistribution.
+- For client or employment materials: confirm authorization and redact all nonpublic personal/company information.
+- For dependencies: rely on package-specific licenses; root MIT terms alone do not override third-party terms.
+- Do not mark an asset as cleared until evidence is documented and checked.
+
+This report only covers current tracked filename extensions and conventional notice filenames in default-branch Git trees. It does **not** verify file contents, license provenance, original authorship, off-repository sources, or historical deleted files.
