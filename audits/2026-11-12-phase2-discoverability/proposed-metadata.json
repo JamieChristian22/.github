@@ -12,27 +12,37 @@
       "repo": "JamieChristian22",
       "priority": "P0",
       "changes": {
-        "description": "Cross-functional business and technology portfolio: cloud and platform engineering, cybersecurity, IT support, data/BI, business analysis, product, and project delivery.",
+        "description": "Career-focused business and technology portfolio: cloud/platform engineering, cybersecurity, IT support, data/BI, business/systems and financial analysis, product, and project delivery.",
         "topics": [
           "developer-portfolio",
           "cloud-engineering",
           "platform-engineering",
+          "devops",
           "cybersecurity",
+          "it-support",
           "data-analytics",
           "business-intelligence",
           "business-analysis",
+          "business-analyst",
           "systems-analysis",
+          "financial-analysis",
           "product-management",
           "project-management",
-          "it-support",
-          "python"
+          "data-operations",
+          "excel",
+          "powerbi",
+          "python",
+          "terraform"
         ],
         "homepage": "https://jamiechristian22.github.io/"
       },
       "verify": [
         "Confirm portfolio website responds publicly before setting homepage",
-        "Do not edit README.md"
-      ]
+        "Do not edit README.md",
+        "Keep existing relevant Excel and Power BI topic coverage while broadening career discoverability",
+        "Confirm GitHub Pages site live before replacing the existing homepage; homepage update is DEFERRED"
+      ],
+      "homepage_status": "HOLD_PENDING_PUBLIC_SITE_VERIFICATION"
     },
     {
       "repo": "jamiechristian22.github.io",
@@ -52,7 +62,8 @@
       },
       "verify": [
         "Verify GitHub Pages is published and the site opens before setting homepage"
-      ]
+      ],
+      "homepage_status": "HOLD_PENDING_PUBLIC_SITE_VERIFICATION"
     },
     {
       "repo": ".github",
@@ -300,7 +311,8 @@
       },
       "verify": [
         "Verify website is publicly reachable and links to relevant architecture projects"
-      ]
+      ],
+      "homepage_status": "HOLD_PENDING_PUBLIC_SITE_VERIFICATION"
     },
     {
       "repo": "data-architect-portfolio-",
@@ -311,7 +323,8 @@
       },
       "verify": [
         "Verify website is publicly reachable and links to relevant architecture projects"
-      ]
+      ],
+      "homepage_status": "HOLD_PENDING_PUBLIC_SITE_VERIFICATION"
     },
     {
       "repo": "project-manager-portfolio",
@@ -338,7 +351,20 @@
       "verify": [
         "Replace the observed misspelling contruction with construction without dropping other topics",
         "Verify website is publicly reachable and links to relevant project examples"
-      ]
+      ],
+      "homepage_status": "HOLD_PENDING_PUBLIC_SITE_VERIFICATION"
     }
+  ],
+  "review_status": "VALIDATED_AS_DOCUMENTATION_ONLY",
+  "review_date": "2026-11-12",
+  "homepage_policy": "HOLD_ALL_HOMEPAGE_UPDATES: public destination was not verifiably reachable during this review; no homepage should be changed before a successful public deployment check.",
+  "first_approval_batch": [
+    "JamieChristian22",
+    "jamiechristian22.github.io",
+    "cybersecurity-analyst-portfolio",
+    "data-analyst-portfolio",
+    "cloud-security-operations-platform",
+    "cloud-support-operations-portfolio",
+    "product-manager-portfolio"
   ]
 }
