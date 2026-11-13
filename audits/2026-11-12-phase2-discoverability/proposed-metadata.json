@@ -1,0 +1,370 @@
+{
+  "schema_version": "1.0",
+  "project": "JamieChristian22 organic GitHub growth — Phase 2",
+  "created_on": "2026-11-12",
+  "source": "Connected GitHub repository metadata (read-only)",
+  "mode": "PROPOSAL_ONLY_DO_NOT_APPLY",
+  "note": "GitHub About metadata is repository settings, not committed source. Merging the audit pull request does NOT apply any proposed metadata updates. Obtain separate owner approval and verify live website before applying.",
+  "owner": "JamieChristian22",
+  "repo_count_audited": 35,
+  "proposed_changes": [
+    {
+      "repo": "JamieChristian22",
+      "priority": "P0",
+      "changes": {
+        "description": "Career-focused business and technology portfolio: cloud/platform engineering, cybersecurity, IT support, data/BI, business/systems and financial analysis, product, and project delivery.",
+        "topics": [
+          "developer-portfolio",
+          "cloud-engineering",
+          "platform-engineering",
+          "devops",
+          "cybersecurity",
+          "it-support",
+          "data-analytics",
+          "business-intelligence",
+          "business-analysis",
+          "business-analyst",
+          "systems-analysis",
+          "financial-analysis",
+          "product-management",
+          "project-management",
+          "data-operations",
+          "excel",
+          "powerbi",
+          "python",
+          "terraform"
+        ],
+        "homepage": "https://jamiechristian22.github.io/"
+      },
+      "verify": [
+        "Confirm portfolio website responds publicly before setting homepage",
+        "Do not edit README.md",
+        "Keep existing relevant Excel and Power BI topic coverage while broadening career discoverability",
+        "Confirm GitHub Pages site live before replacing the existing homepage; homepage update is DEFERRED"
+      ],
+      "homepage_status": "HOLD_PENDING_PUBLIC_SITE_VERIFICATION"
+    },
+    {
+      "repo": "jamiechristian22.github.io",
+      "priority": "P0",
+      "changes": {
+        "description": "Accessible portfolio website showcasing cloud and IT, cybersecurity, data and BI, business analysis, product, and project delivery case studies.",
+        "topics": [
+          "portfolio",
+          "github-pages",
+          "web-development",
+          "html",
+          "css",
+          "javascript",
+          "accessibility"
+        ],
+        "homepage": "https://jamiechristian22.github.io/"
+      },
+      "verify": [
+        "Verify GitHub Pages is published and the site opens before setting homepage"
+      ],
+      "homepage_status": "HOLD_PENDING_PUBLIC_SITE_VERIFICATION"
+    },
+    {
+      "repo": ".github",
+      "priority": "P1",
+      "changes": {
+        "topics": [
+          "github-community",
+          "open-source",
+          "contributing",
+          "documentation",
+          "community-health"
+        ]
+      }
+    },
+    {
+      "repo": "applied-data-science-portfolio",
+      "priority": "P1",
+      "changes": {
+        "topics": [
+          "data-science",
+          "python",
+          "machine-learning",
+          "classification",
+          "forecasting",
+          "nlp",
+          "model-evaluation",
+          "reproducible-research"
+        ]
+      }
+    },
+    {
+      "repo": "cloud-security-operations-platform",
+      "priority": "P1",
+      "changes": {
+        "topics": [
+          "cloud-security",
+          "aws",
+          "azure",
+          "gcp",
+          "iam",
+          "terraform",
+          "security-operations",
+          "devsecops"
+        ]
+      }
+    },
+    {
+      "repo": "cloud-support-operations-portfolio",
+      "priority": "P1",
+      "changes": {
+        "topics": [
+          "cloud-support",
+          "aws",
+          "azure",
+          "gcp",
+          "troubleshooting",
+          "incident-response",
+          "cloud-operations",
+          "networking"
+        ]
+      }
+    },
+    {
+      "repo": "data-science-portfolio",
+      "priority": "P1",
+      "changes": {
+        "topics": [
+          "data-science",
+          "python",
+          "scikit-learn",
+          "classification",
+          "forecasting",
+          "fraud-detection",
+          "machine-learning"
+        ]
+      }
+    },
+    {
+      "repo": "marketing-analytics-portfolio",
+      "priority": "P1",
+      "changes": {
+        "topics": [
+          "marketing-analytics",
+          "sql",
+          "powerbi",
+          "tableau",
+          "customer-segmentation",
+          "ab-testing",
+          "conversion-optimization",
+          "dashboards"
+        ]
+      }
+    },
+    {
+      "repo": "product-manager-portfolio",
+      "priority": "P1",
+      "changes": {
+        "description": "Six simulated product-management case studies featuring PRDs, user flows, experiments, prioritization, KPI dashboards, and technical decision artifacts.",
+        "topics": [
+          "product-management",
+          "product-discovery",
+          "product-strategy",
+          "product-analytics",
+          "user-stories",
+          "ab-testing",
+          "roadmapping",
+          "case-study"
+        ]
+      }
+    },
+    {
+      "repo": "professional-data-operations-portfolio-",
+      "priority": "P1",
+      "changes": {
+        "topics": [
+          "data-operations",
+          "data-quality",
+          "data-cleaning",
+          "data-entry",
+          "excel",
+          "document-processing",
+          "quality-assurance"
+        ]
+      }
+    },
+    {
+      "repo": "program-manager-portfolio",
+      "priority": "P1",
+      "changes": {
+        "description": "Program management case studies covering transformation planning, RAID logs, KPI dashboards, stakeholder coordination, and executive reporting.",
+        "topics": [
+          "program-management",
+          "pmo",
+          "digital-transformation",
+          "risk-management",
+          "kpi",
+          "project-delivery",
+          "stakeholder-management"
+        ]
+      }
+    },
+    {
+      "repo": "project-coordinator-portfolio",
+      "priority": "P1",
+      "changes": {
+        "description": "Four simulated project coordination case studies covering Jira, Agile delivery, RAID tracking, schedules, budgets, stakeholders, and KPI reporting.",
+        "topics": [
+          "project-coordination",
+          "project-management",
+          "agile",
+          "jira",
+          "risk-management",
+          "stakeholder-management",
+          "implementation",
+          "kpi"
+        ]
+      }
+    },
+    {
+      "repo": "scrum-master-agile-portfolio",
+      "priority": "P1",
+      "changes": {
+        "topics": [
+          "scrum",
+          "agile",
+          "scrum-master",
+          "sprint-planning",
+          "backlog-management",
+          "retrospectives",
+          "project-management"
+        ]
+      }
+    },
+    {
+      "repo": "system-analyst-portfolio",
+      "priority": "P1",
+      "changes": {
+        "topics": [
+          "systems-analysis",
+          "business-systems-analysis",
+          "requirements-engineering",
+          "uml",
+          "bpmn",
+          "uat",
+          "api-integration",
+          "process-modeling"
+        ]
+      }
+    },
+    {
+      "repo": "cybersecurity-analyst-portfolio",
+      "priority": "P1",
+      "changes": {
+        "description": "Reproducible synthetic SOC investigations with Python, SQLite, security detections, incident response evidence, and automated tests."
+      }
+    },
+    {
+      "repo": "data-analyst-portfolio",
+      "priority": "P1",
+      "changes": {
+        "description": "Five reproducible SQL/Python analytics case studies: SaaS, A/B tests, ecommerce, marketplaces, and user journeys, with validated KPIs and an offline explorer."
+      }
+    },
+    {
+      "repo": "aws-security-networking",
+      "priority": "P2",
+      "changes": {
+        "description": "AWS security and networking lab with Terraform VPC designs, Transit Gateway, IAM boundaries, Network Firewall, GuardDuty, Security Hub, and serverless controls."
+      }
+    },
+    {
+      "repo": "cloud-platform-engineering-lab",
+      "priority": "P2",
+      "changes": {
+        "description": "Production-inspired platform engineering labs: AWS governance, landing zones, shared services, observability, Terraform, Kubernetes, and IaC."
+      }
+    },
+    {
+      "repo": "business-intelligence-portfolio",
+      "priority": "P2",
+      "changes": {
+        "description": "Power BI, Tableau, SQL, and Python BI case studies featuring sales and SaaS dashboards, reconciled KPIs, and reproducible validation."
+      }
+    },
+    {
+      "repo": "AI-Product-Manager-Portfolio-",
+      "priority": "P2",
+      "changes": {
+        "description": "Independent AI product-management case studies with PRDs, user journeys, dashboards, experimentation, responsible-AI considerations, and decision frameworks."
+      }
+    },
+    {
+      "repo": "management-leadership-portfolio",
+      "priority": "P2",
+      "changes": {
+        "description": "Management and leadership portfolio featuring simulated operations, KPI analysis, process improvement, stakeholder coordination, and data-driven decisions."
+      }
+    },
+    {
+      "repo": "multi-cloud-architect-portfolio",
+      "priority": "P2",
+      "changes": {
+        "description": "Multi-cloud architecture case study for a fictional retail business across AWS, Azure, and GCP, including analytics platform design, IaC, and ML.",
+        "homepage": "https://jamiechristian22.github.io/"
+      },
+      "verify": [
+        "Verify website is publicly reachable and links to relevant architecture projects"
+      ],
+      "homepage_status": "HOLD_PENDING_PUBLIC_SITE_VERIFICATION"
+    },
+    {
+      "repo": "data-architect-portfolio-",
+      "priority": "P2",
+      "changes": {
+        "description": "Data architecture case studies covering data modeling, ETL/ELT, warehouses, governance, and cloud data platforms across AWS, Azure, and GCP.",
+        "homepage": "https://jamiechristian22.github.io/"
+      },
+      "verify": [
+        "Verify website is publicly reachable and links to relevant architecture projects"
+      ],
+      "homepage_status": "HOLD_PENDING_PUBLIC_SITE_VERIFICATION"
+    },
+    {
+      "repo": "project-manager-portfolio",
+      "priority": "P2",
+      "changes": {
+        "topics": [
+          "agile",
+          "budget-management",
+          "cloud-migration",
+          "construction",
+          "cybersecurity",
+          "gantt-chart",
+          "it-project-management",
+          "kpi-dashboard",
+          "pmo",
+          "project-management",
+          "risk-management",
+          "software-implementation",
+          "technical-project-manager",
+          "waterfall"
+        ],
+        "homepage": "https://jamiechristian22.github.io/"
+      },
+      "verify": [
+        "Replace the observed misspelling contruction with construction without dropping other topics",
+        "Verify website is publicly reachable and links to relevant project examples"
+      ],
+      "homepage_status": "HOLD_PENDING_PUBLIC_SITE_VERIFICATION"
+    }
+  ],
+  "review_status": "VALIDATED_AS_DOCUMENTATION_ONLY",
+  "review_date": "2026-11-12",
+  "homepage_policy": "HOLD_ALL_HOMEPAGE_UPDATES: public destination was not verifiably reachable during this review; no homepage should be changed before a successful public deployment check.",
+  "first_approval_batch": [
+    "JamieChristian22",
+    "jamiechristian22.github.io",
+    "cybersecurity-analyst-portfolio",
+    "data-analyst-portfolio",
+    "cloud-security-operations-platform",
+    "cloud-support-operations-portfolio",
+    "product-manager-portfolio"
+  ]
+}
