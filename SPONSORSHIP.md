@@ -1,6 +1,6 @@
 # Sponsor public projects across technology and business
 
-[Become a GitHub Sponsor](https://github.com/sponsors/JamieChristian22) · [Explore the GitHub portfolio](https://github.com/JamieChristian22) · [Visit the portfolio website](https://jamiechristian22.github.io/)
+[Become a GitHub Sponsor](https://github.com/sponsors/JamieChristian22) · [Share the sponsorship campaign](https://jamiechristian22.github.io/sponsor/) · [Explore the GitHub portfolio](https://github.com/JamieChristian22) · [Visit the portfolio website](https://jamiechristian22.github.io/)
 
 ## Why support this work?
 
@@ -30,6 +30,10 @@ These are a small part of a broader collection that also includes IT support, cl
 - Maintenance of public examples, templates, and project artifacts
 - Accessible security-conscious learning materials and case studies
 - Exploration of new ideas across multiple technology and business disciplines
+
+## Share this work
+
+A dedicated [support page](https://jamiechristian22.github.io/sponsor/) introduces the work, featured repositories, and ways to help. You can share it with a colleague who has used these projects or might find the resources valuable. Please avoid unsolicited mass posting or spam.
 
 ## Ways to support
 
