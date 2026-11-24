@@ -13,7 +13,23 @@ The following GitHub Actions runs were inspected during the quality pass. A succ
 | Cloud support | [Passing offline validation](https://github.com/JamieChristian22/cloud-support-operations-portfolio/actions/runs/45312480287) |
 | Cloud platform engineering | [Passing quality checks](https://github.com/JamieChristian22/cloud-platform-engineering-lab/actions/runs/45312506032), [merged PR #11](https://github.com/JamieChristian22/cloud-platform-engineering-lab/pull/11) |
 | Portfolio website | [Passing static checks](https://github.com/JamieChristian22/jamiechristian22.github.io/actions/runs/45313975911), [successful Pages deployment](https://github.com/JamieChristian22/jamiechristian22.github.io/actions/runs/45313975313) |
-| AWS VPC Terraform | [Initial checksum failure](https://github.com/JamieChristian22/aws-vpc-terraform-lab/actions/runs/45308977716); [corrective run](https://github.com/JamieChristian22/aws-vpc-terraform-lab/actions/runs/45314183364) — inspect latest outcome before claiming success |
+| AWS VPC Terraform | [Initial checksum failure](https://github.com/JamieChristian22/aws-vpc-terraform-lab/actions/runs/45308977716); [corrective run](https://github.com/JamieChristian22/aws-vpc-terraform-lab/actions/runs/45314183364) — corrective run completed successfully; no AWS deployment |
+
+## Initial public engagement snapshot — November 23, 2026 (U.S. Eastern)
+
+Source: public GitHub repository metadata retrieved on this date. Stars and forks are cumulative counts, not unique individuals or weekly gains.
+
+| Repository | Stars | Forks |
+| --- | ---: | ---: |
+| [AWS VPC Terraform Lab](https://github.com/JamieChristian22/aws-vpc-terraform-lab) | 1 | 0 |
+| [Cloud Platform Engineering](https://github.com/JamieChristian22/cloud-platform-engineering-lab) | 1 | 1 |
+| [Multi-Cloud DevOps](https://github.com/JamieChristian22/multi-cloud-devops-engineering-projects) | 3 | 0 |
+| [Infrastructure Troubleshooting](https://github.com/JamieChristian22/cloud-infrastructure-troubleshooting-lab) | 1 | 0 |
+| [Multi-Cloud Security](https://github.com/JamieChristian22/multi-cloud-security-engineering-platform) | 1 | 0 |
+| [Data Engineering](https://github.com/JamieChristian22/data-engineering-portfolio) | 2 | 0 |
+| Total across six repositories | 9 | 1 |
+
+Metadata audit: the Terraform lab and infrastructure troubleshooting lab currently have no topics; the troubleshooting lab also has no About description. Apply the recommended metadata in the [discoverability guide](https://github.com/JamieChristian22/JamieChristian22/blob/main/REPOSITORY_DISCOVERABILITY.md) using GitHub's repository settings. Preserve relevant existing topics on the other four repositories. Traffic, profile followers, inquiries and sponsorship revenue were not collected.
 
 ## Weekly scorecard
 
@@ -45,4 +61,4 @@ Use repository Insights → Traffic for a consistent set of flagship repositorie
 - Keep the spending budget at zero.
 - See [promotion playbook](PROMOTION_PLAYBOOK.md) for content rotation.
 
-No traffic, leads, sponsorship revenue or growth outcome has been verified as of the initial baseline. Use collected data rather than projected results.
+Traffic, leads, sponsorship revenue and week-over-week growth remain unverified; the initial public star and fork snapshot is recorded above. Use collected data rather than projected results.
